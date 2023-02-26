@@ -1,0 +1,1655 @@
+MATRICULA
+
+NOME
+
+HABILITAÇÃO
+
+PÓLO
+
+20183007608
+
+ALDECI ALLYSON PEREIRA BORGES
+
+Informática para Internet
+
+Angicos
+
+20163004609
+
+ARIEL LUCAS DA CUNHA SILVA
+
+Redes de Computadores
+
+Angicos
+
+20173003258
+
+CHARLI DELEON DE OLIVEIRA
+
+Redes de Computadores
+
+Angicos
+
+20183002272
+
+DIMAS LOPES DE ARAÚJO JÚNIOR
+
+Redes de Computadores
+
+Angicos
+
+20183006923
+
+FRANCISCO DE ASSIS FAUSTINO JÚNIOR
+
+Redes de Computadores
+
+Angicos
+
+20173005403
+
+JERÔNIMO DE CASTRO SEGUNDO FILHO
+
+Redes de Computadores
+
+Angicos
+
+20173005501
+
+JOAB ANDERSON DA SILVA GOMES
+
+Redes de Computadores
+
+Angicos
+
+20173012355
+
+LOURIETE RIBEIRO DE ARAUJO
+
+Redes de Computadores
+
+Angicos
+
+20183007617
+
+LUCAS QUEIROZ EVANGELISTA
+
+Informática para Internet
+
+Angicos
+
+20183005120
+
+ALYSON LOPES DE AZEVEDO
+
+Redes de Computadores
+
+Caicó
+
+20183003995
+
+ANA CAROLINA DE SOUSA FERREIRA
+
+Informática para Internet
+
+Caicó
+
+20173000748
+
+BIANKA LANINNI PEREIRA ALVES
+
+Redes de Computadores
+
+Caicó
+
+20173012186
+
+BISMARK VISTOR DINIZ
+
+Redes de Computadores
+
+Caicó
+
+20183006271
+
+DALVA ALVES DA SILVA
+
+Informática para Internet
+
+Caicó
+
+20173006330
+
+DENYS NYCKSON FERREIRA DA SILVA
+
+Redes de Computadores
+
+Caicó
+
+20163012727
+
+DEVISON GOMES DE BRITO
+
+Redes de Computadores
+
+Caicó
+
+20173029281
+
+EMANUEL DA SILVA OLIVEIRA
+
+Redes de Computadores
+
+Caicó
+
+20183000699
+
+FÁBIO JORDÃO DE SOUZA ALVES
+
+Informática para Internet
+
+Caicó
+
+20183006576
+
+HENRIQUE HIPOLITO DANTAS
+
+Informática para Internet
+
+Caicó
+
+20173008281
+
+INALDO MACENA SILVA DE LIMA
+
+Informática para Internet
+
+Caicó
+
+20163005123
+
+ITALO HUGO DA SILVA
+
+Redes de Computadores
+
+Caicó
+
+20163011621
+
+JAINE DE SENNA SANTOS
+
+Redes de Computadores
+
+Caicó
+
+20173003795
+
+JOSINALDO DE SENNA SANTOS
+
+Informática para Internet
+
+Caicó
+
+20173001511
+
+MARIA DAS GRAÇAS DIAS AMORIM
+
+Redes de Computadores
+
+Caicó
+
+20173000363
+
+MARIA VANESSA DE OLIVEIRA MEDEIROS
+
+Informática para Internet
+
+Caicó
+
+20173029924
+
+MATEUS SAMUEL DA SILVA
+
+Redes de Computadores
+
+Caicó
+
+20183006950
+
+RAMON DA SILVA VIEIRA
+
+Redes de Computadores
+
+Caicó
+
+2015305166
+
+RICARDO ADLEY DA SILVA SENA
+
+Informática para Internet
+
+Caicó
+
+20183007582
+
+THAYS CLAUDIANA DANTAS
+
+Redes de Computadores
+
+Caicó
+
+20163008297
+
+WANESSA SILVA FERNANDES
+
+Informática para Internet
+
+Caicó
+
+20173029666
+
+ZAÚ JÚLIO ARAÚJO GALVÃO
+
+Redes de Computadores
+
+Caicó
+
+20173030872
+
+ABDIEL JÔNATAS ALVES DA SILVA
+
+Redes de Computadores
+
+Mossoró
+
+20173007328
+
+ADISSON RONDINELE OLIVEIRA DE MEDEIROS
+
+Redes de Computadores
+
+Mossoró
+
+20183001730
+
+ALAN PINHEIRO SANTOS JUNIOR
+
+Informática para Internet
+
+Mossoró
+
+20173003810
+
+ALEX DANTAS DE JESUS
+
+Redes de Computadores
+
+Mossoró
+
+20173030863
+
+ALEXIA SAMARA QUEIROZ DE OLIVEIRA
+
+Redes de Computadores
+
+Mossoró
+
+20173026252
+
+ARTHUR VITOR MATIAS DE OLIVEIRA
+
+Informática para Internet
+
+Mossoró
+
+20183004437
+
+AURIMAR ALVES JUNIOR
+
+Redes de Computadores
+
+Mossoró
+
+20173013942
+
+BRUNO RÊMULO DA COSTA MOURA
+
+Informática para Internet
+
+Mossoró
+
+20173003688
+
+DÉBORA RAQUEL FERNANDES NASCIMENTO
+
+Eletrônica
+
+Mossoró
+
+20163006499
+
+DJAELLY SHAYANE SILVA SANTIAGO
+
+Informática para Internet
+
+Mossoró
+
+20173001404
+
+EBERTE VALTER DA SILVA FREITAS
+
+Informática para Internet
+
+Mossoró
+
+20163000922
+
+FELIPE OZIAS DE OLIVEIRA
+
+Redes de Computadores
+
+Mossoró
+
+20183005416
+
+FLÁVIO DA SILVA FERREIRA
+
+Informática para Internet
+
+Mossoró
+
+20173002920
+
+GIOVANNI MOREIRA GUIMARÃES
+
+Redes de Computadores
+
+Mossoró
+
+20183000920
+
+HARLEY DIKSON DA SILVA
+
+Redes de Computadores
+
+Mossoró
+
+20183003977
+
+HERMANO CLEMENTINO DA SILVA
+
+Redes de Computadores
+
+Mossoró
+
+20183003940
+
+JAIDSON DE SOUSA MORAIS SEGUNDO
+
+Redes de Computadores
+
+Mossoró
+
+20183004419
+
+JOSÉ RUBENS PINHEIRO JÚNIOR
+
+Redes de Computadores
+
+Mossoró
+
+
+
+
+20163010099
+
+LORRHAM LINCON FERREIRA FILGUEIRA
+
+Redes de Computadores
+
+Mossoró
+
+20163007727
+
+LUAN HENRIQUE FERNANDES RAMOS
+
+Redes de Computadores
+
+Mossoró
+
+20173008620
+
+MARCOS SUEL PEREIRA DA SILVA
+
+Informática para Internet
+
+Mossoró
+
+20173026216
+
+RELLYSON DOUGLAS TORQUATO DA COSTA
+
+Informática para Internet
+
+Mossoró
+
+20173001825
+
+THOMAS MAIKON DOS SANTOS E SILVA
+
+Eletrônica
+
+Mossoró
+
+20163013072
+
+ALESSANDRO MENDES BEZERRA
+
+Redes de Computadores
+
+Natal
+
+20183006825
+
+ALESSANDRO PEREIRA TORRES DE SA NETO
+
+Prog. de Jogos Digitais
+
+Natal
+
+20183001533
+
+ALEX WAGNER PEREIRA
+
+Prog. de Jogos Digitais
+
+Natal
+
+20163001198
+
+ALEXSANDRO DANTAS DE ARAÚJO SILVA
+
+Informática para Internet
+
+Natal
+
+20173027760
+
+ALLAN GUILHERME DA SILVA PADILHA
+
+Eletrônica
+
+Natal
+
+20173006797
+
+ALYSSON NICACIO DA SILVA
+
+Redes de Computadores
+
+Natal
+
+20173005566
+
+ALYSSON PAULINELLY BARRETO DA SILVA
+
+Automação Industrial
+
+Natal
+
+20163004046
+
+ANA BEATRIZ MARINH NEVES
+
+Eletrônica
+
+Natal
+
+20163001625
+
+ANA GISELI COSTA DE ALMEIDA
+
+Redes de Computadores
+
+Natal
+
+20163008813
+
+ANA PAULA LINS DE MEDEIROS TORRES
+
+Redes de Computadores
+
+Natal
+
+2014313181
+
+ANA PRISCILA MEIRELES DE MELO
+
+Informática para Internet
+
+Natal
+
+20173002199
+
+ANDERSON BEZERRA DA ROCHA
+
+Redes de Computadores
+
+Natal
+
+20173002205
+
+ANDERSON EGBERTO CAVALCANTE SALLES
+
+Automação Industrial
+
+Natal
+
+20183005292
+
+ANDERSON PEREIRA TORRES DE SÁ NETO
+
+Prog. de Jogos Digitais
+
+Natal
+
+20183005668
+
+ANDRESON MARINHO DOS SANTOS
+
+Redes de Computadores
+
+Natal
+
+20173024310
+
+ANDRESSA DA COSTA AVELINO
+
+Informática para Internet
+
+Natal
+
+2015302235
+
+ANDREY LUCAS DIAS BARROS
+
+Redes de Computadores
+
+Natal
+
+20173004513
+
+ANTONIO DE OLIVEIRA NUNES COSTA
+
+Eletrônica
+
+Natal
+
+20173002054
+
+ARLÚCIO PEREIRA DO NASCIMENTO SILVA
+
+Eletrônica
+
+Natal
+
+20163002121
+
+ARNALDO BARBOSA ELOI DE SOUZA
+
+Prog. de Jogos Digitais
+
+Natal
+
+20163004430
+
+ARTHUR COUTO DA SILVEIRA ARAUJO
+
+Prog. de Jogos Digitais
+
+Natal
+
+20173010575
+
+ARTHUR FERNANDES GADELHA
+
+Automação Industrial
+
+Natal
+
+20173003721
+
+ARTUR BRENO CAMELO E SOUZA
+
+Informática para Internet
+
+Natal
+
+20163008493
+
+BRAD HUDSON ROCHA E SILVA
+
+Redes de Computadores
+
+Natal
+
+20163027621
+
+CLEIANE CLEMENTINO BONDADE
+
+Redes de Computadores
+
+Natal
+
+20183002450
+
+CRISTIAN HENRIQUE MARTINS DE SOUZA
+
+Eletrônica
+
+Natal
+
+20173001075
+
+DANIEL ARAÚJO DE OLIVEIRA
+
+Eletrônica
+
+Natal
+
+20173004980
+
+DANIEL SOARES ROCHA
+
+Automação Industrial
+
+Natal
+
+20183005630
+
+DARY MEDEIROS DANTAS
+
+Redes de Computadores
+
+Natal
+
+20183004099
+
+DOUGLAS DE SOUZA CARVALHO
+
+Redes de Computadores
+
+Natal
+
+20163014392
+
+EDUARDO MORAIS DE ARAUJO AVELINO
+
+Informática para Internet
+
+Natal
+
+20163005858
+
+ELISANGELA MARIA DE SOUZA
+
+Redes de Computadores
+
+Natal
+
+20183001471
+
+ELTON RAFAEL COSTA DA SILVA
+
+Automação Industrial
+
+Natal
+
+20173028490
+
+EMANUEL VICTOR CHAGAS MOREIRA
+
+Redes de Computadores
+
+Natal
+
+20173009547
+
+EMERSON JOSÉ CUNHA DA SILVA
+
+Redes de Computadores
+
+Natal
+
+20163006229
+
+EMERSON PEREIRA DA SILVA
+
+Redes de Computadores
+
+Natal
+
+20173027714
+
+ERNANE FERREIRA ROCHA JUNIOR
+
+Eletrônica
+
+Natal
+
+20163002598
+
+ESTHER ARAGÃO DA SILVA SANTANA
+
+Prog. de Jogos Digitais
+
+Natal
+
+20163005240
+
+EVANDRO DIEGO DOS SANTOS BATISTA
+
+Redes de Computadores
+
+Natal
+
+20173023054
+
+EVERLANNE BEZERRA DA SILVA
+
+Informática para Internet
+
+Natal
+
+20163011327
+
+FABIO HENRIQUE CAVALCANTE MARTINS
+
+Redes de Computadores
+
+Natal
+
+20173027634
+
+FABIO HENRIQUE FERREIRA DE LIMA
+
+Eletrônica
+
+Natal
+
+20173007810
+
+FELIPE LEITE ALEXANDRE
+
+Informática para Internet
+
+Natal
+
+20173013559
+
+FELIPE SOUZA DE OLIVEIRA
+
+Redes de Computadores
+
+Natal
+
+20163002794
+
+FRANCISCO HELIÉSUS DE MEDEIROS
+
+Redes de Computadores
+
+Natal
+
+
+
+
+20173012023
+
+FRANCISCO ITALO SILVA DO NASCIMENTO
+
+Informática para Internet
+
+Natal
+
+20173004291
+
+GABRIEL DANTAS DE LIRA
+
+Automação Industrial
+
+Natal
+
+20183004651
+
+GABRIEL IGOR QUEIROZ COSTA
+
+Redes de Computadores
+
+Natal
+
+20183001631
+
+GABRIEL MARTINS SPINOLA
+
+Redes de Computadores
+
+Natal
+
+20183011950
+
+GABRIEL SANTANA OLIVEIRA DE PAULA 
+
+Prog. de Jogos Digitais
+
+Natal
+
+20173009019
+
+GABRIELA ESTEFANI SANTOS COSTA
+
+Eletrônica
+
+Natal
+
+20173004700
+
+GEORGE LUCAS DE LIMA CHIANCA
+
+Redes de Computadores
+
+Natal
+
+20163002972
+
+GUILHERME ARRUDA CAMARA DE LIRA
+
+Informática para Internet
+
+Natal
+
+20173026600
+
+GUSTAVO PEREIRA DA FONSECA
+
+Automação Industrial
+
+Natal
+
+20163000314
+
+HANIEDSON OLIVEIRA BARBOSA
+
+Redes de Computadores
+
+Natal
+
+20173028266
+
+HELOÍSA DE FÁTIMA SOUZA CORDEIRO
+
+Redes de Computadores
+
+Natal
+
+20163003002
+
+HELTON CLIESTENES SOARES DA COSTA
+
+Eletrônica
+
+Natal
+
+2015314530
+
+HIGOR ROBERTO DA SILVA
+
+Redes de Computadores
+
+Natal
+
+20183004034
+
+HUGO CARDOSO CRISPIM
+
+Redes de Computadores
+
+Natal
+
+20173022941
+
+IARA CRISTINA FARIA LEVY
+
+Informática para Internet
+
+Natal
+
+20183000948
+
+IGOR ALVES DOS SANTOS
+
+Informática para Internet
+
+Natal
+
+20183020726
+
+IGOR BEZERRA DE ALMEIDA
+
+Redes de Computadores
+
+Natal
+
+20173006616
+
+IGOR FELIPE DOMINGOS DA SILVA
+
+Prog. de Jogos Digitais
+
+Natal
+
+20173002072
+
+IRAN MACEDO BEZERRA NETO
+
+Redes de Computadores
+
+Natal
+
+20163014267
+
+ISAQUE KAIO DE ARAUJO RODRIGUES
+
+Informática para Internet
+
+Natal
+
+20173009690
+
+IURY MAZZILI GOMES DANTAS
+
+Prog. de Jogos Digitais
+
+Natal
+
+20163007217
+
+JACKSON BRENO NASCIMENTO DE SOUSA
+
+Redes de Computadores
+
+Natal
+
+20173001600
+
+JANIHERSON FELIPE DE OLIVEIRA MARTINS
+
+Eletrônica
+
+Natal
+
+20173000336
+
+JARBAS JAMERSON DO RÊGO FILHO
+
+Eletrônica
+
+Natal
+
+20163005301
+
+JASNA DE OLIVEIRA BATISTA
+
+Informática para Internet
+
+Natal
+
+20163008386
+
+JEFFERSON BRUNO FILGUEIRA SOARES
+
+Informática para Internet
+
+Natal
+
+20163003067
+
+JEFFERSON BRUNO SILVA
+
+Informática para Internet
+
+Natal
+
+20173000828
+
+JEFFERSON PEREIRA DA SILVA
+
+Redes de Computadores
+
+Natal
+
+20173000837
+
+JEREMIAS BEZERRA SOBRINHO
+
+Eletrônica
+
+Natal
+
+20173023770
+
+JOÃO HENRIQUE SILVA CORRÊA
+
+Informática para Internet
+
+Natal
+
+20163006069
+
+JOÃO HUGO PEREIRA DA SILVA
+
+Informática para Internet
+
+Natal
+
+20173001001
+
+JOÃO PABLO SANTOS DA SILVA
+
+Automação Industrial
+
+Natal
+
+20173009458
+
+JOÃO PAULO CARNEIRO E SILVA
+
+Informática para Internet
+
+Natal
+
+20173010127
+
+JOÃO PAULO SOARES DE ALENCAR GOMES
+
+Informática para Internet
+
+Natal
+
+20163005956
+
+JOÃO PAULO TENÓRIO DA SILVA
+
+Redes de Computadores
+
+Natal
+
+20173007426
+
+JOÃO PEDRO PEREIRA CAVALCANTI
+
+Automação Industrial
+
+Natal
+
+20173003928
+
+JOÃO PEDRO RIBEIRO FIALHO
+
+Prog. de Jogos Digitais
+
+Natal
+
+20183001050
+
+JOÃO VÍTOR SOUTO DOS SANTOS
+
+Informática para Internet
+
+Natal
+
+2014317298
+
+JOHN WANE SENA AVELINO
+
+Automação Industrial
+
+Natal
+
+20173010341
+
+JOSÉ MARIA CARVALHO DE FRANÇA JUNIOR
+
+Informática para Internet
+
+Natal
+
+20173004667
+
+JOSÉ RAFAEL NÓBREGA BEZERRA
+
+Redes de Computadores
+
+Natal
+
+20163010393
+
+JOSÉ WESLEY DA SILVA VASCONCELOS
+
+Informática para Internet
+
+Natal
+
+20173008942
+
+JOSEANE PALHARES DE AQUINO
+
+Redes de Computadores
+
+Natal
+
+20163005698
+
+JULIANA ANDRIELLE DE LIMA NUNES
+
+Eletrônica
+
+Natal
+
+20163007790
+
+KALYANE DE OLIVEIRA BEZERRA
+
+Redes de Computadores
+
+Natal
+
+20173010619
+
+KAROLLAYNNE SAMARA ALVES RODRIGUES
+
+Automação Industrial
+
+Natal
+
+20183001220
+
+KLEYBER JOSÉ GOMES MARÇAL 
+
+Prog. de Jogos Digitais
+
+Natal
+
+20163008994
+
+LAURA BEATRIZ BARBOSA DE OLIVEIRA
+
+Informática para Internet
+
+Natal
+
+20163001966
+
+LAURA CAVALCANTI DE ALBUQUERQUE LUNA
+
+Informática para Internet
+
+Natal
+
+20173003365
+
+LUCA SILVA GOUVEIA
+
+Informática para Internet
+
+Natal
+
+
+
+
+20173004489
+
+LUCAS FIGUEREDO VARELA ALVES
+
+Eletrônica
+
+Natal
+
+20173001230
+
+LUCAS NASCIMENTO LOPES
+
+Redes de Computadores
+
+Natal
+
+20173000407
+
+LUCAS VINÍCIUS DANTAS DE OLIVEIRA
+
+Redes de Computadores
+
+Natal
+
+20163027640
+
+LUCIANA DE ALMEIDA MARIANO
+
+Automação Industrial
+
+Natal
+
+20163015344
+
+MAIKO LEONEL SALVIANO LOPES
+
+Eletrônica
+
+Natal
+
+20173000891
+
+MARCIO VENICIO NASCIMENTO SILVA
+
+Automação Industrial
+
+Natal
+
+20173028248
+
+MARTHA FLOR DE LIMA LEITE
+
+Redes de Computadores
+
+Natal
+
+20173002134
+
+MAURÍCIO RAMALHO DE AZEVEDO NETO
+
+Prog. de Jogos Digitais
+
+Natal
+
+20163027630
+
+MICAEL FELIPE DOS SANTOS
+
+Eletrônica
+
+Natal
+
+20183002479
+
+NATÁLIA RAFAELE MACEDO ALVES DO NASCIMENTO
+
+Automação Industrial
+
+Natal
+
+20173022923
+
+NÍVIA MARIA SANTOS DA SILVA
+
+Informática para Internet
+
+Natal
+
+20173006877
+
+OZEMAR LOURENÇO DOS SANTOS
+
+Redes de Computadores
+
+Natal
+
+20173013414
+
+PAULO ENEAS ROLIM BEZERRA
+
+Informática para Internet
+
+Natal
+
+20183019734
+
+PEDRO LUCAS ALVES
+
+Automação Industrial
+
+Natal
+
+20163004707
+
+PEDRO PAULO PAIVA DE MEDEIROS
+
+Informática para Internet
+
+Natal
+
+20163009721
+
+RAFAEL FERRAZ RODRIGUES
+
+Informática para Internet
+
+Natal
+
+2014309124
+
+RAFAEL LIMA MONTEIRO
+
+Informática para Internet
+
+Natal
+
+20163011514
+
+RANIERI DA SILVA PAIVA
+
+Informática para Internet
+
+Natal
+
+20173001235
+
+RENATO DE CARVALHO LIMA
+
+Redes de Computadores
+
+Natal
+
+20183002067
+
+RODRIGO DE SOUZA PIRES
+
+Redes de Computadores
+
+Natal
+
+20163008920
+
+RODRIGO EMERECIANO DE OLIVEIRA
+
+Informática para Internet
+
+Natal
+
+20173024777
+
+SAMUEL DA SILVA SANTOS
+
+Informática para Internet
+
+Natal
+
+20173027723
+
+SAMUEL NASCIMENTO DE LIMA
+
+Eletrônica
+
+Natal
+
+20183003260
+
+SILVIA DOS SANTOS GARCIA PEREIRA
+
+Prog. de Jogos Digitais
+
+Natal
+
+20173026870
+
+SILVIO FLAVIO SANTOS DE AGUIAR
+
+Prog. de Jogos Digitais
+
+Natal
+
+20163001750
+
+SÔNIA MARIA PRACIANO TEIXEIRA
+
+Informática para Internet
+
+Natal
+
+20173023573
+
+STEFANY VITORIA SILVA DA COSTA
+
+Informática para Internet
+
+Natal
+
+20183001640
+
+SUENILDO PEREIRA DE SOUSA
+
+Automação Industrial
+
+Natal
+
+2014323811
+
+SUSANNY BARBOSA DE OLIVEIRA
+
+Redes de Computadores
+
+Natal
+
+20183016447
+
+TÁCIO RANGEL CIPRIANO LEITÃO
+
+Eletrônica
+
+Natal
+
+20173003042
+
+THALES SILVA CAPISTRANO
+
+Informática para Internet
+
+Natal
+
+20173011895
+
+THAUANNY KYSSY RAMOS PEREIRA
+
+Informática para Internet
+
+Natal
+
+20173023742
+
+THIAGO ANDREW DA SILVA
+
+Informática para Internet
+
+Natal
+
+20173006151
+
+TIAGO DE LIMA VELOSO
+
+Eletrônica
+
+Natal
+
+20163004135
+
+URIEL LIRA LOPES
+
+Informática para Internet
+
+Natal
+
+20163014490
+
+VALTEMIR PROCÓPIO DE LIMA
+
+Redes de Computadores
+
+Natal
+
+20183002100
+
+VINICIUS CORDEIRO FONSECA
+
+Redes de Computadores
+
+Natal
+
+20173004676
+
+WADSON PONTES DE SOUZA
+
+Prog. de Jogos Digitais
+
+Natal
+
+20173024300
+
+WANESSA KAROLINE MARCELINO RODRIGUES
+
+Informática para Internet
+
+Natal
+
+20173010065
+
+WENDELL ELOI DA SILVA
+
+Informática para Internet
+
+Natal
+
+20173011133
+
+WESLEY OLIVEIRA DA SILVA
+
+Automação Industrial
+
+Natal
+
+20173004317
+
+YAGO BESERRA MARQUES
+
+Redes de Computadores
+
+Natal
+
+20183003565
+
+ADNA JOSYANE FONSÊCA DA SILVA
+
+Informática para Internet
+
+Pau dos Ferros
+
+20173021793
+
+ANA KAROLINY SILVA DE ARAUJO
+
+Informática para Internet
+
+Pau dos Ferros
+
+20183003224
+
+ANTONIO HYGOR LOPES ALMEIDA
+
+Informática para Internet
+
+Pau dos Ferros
+
+20183004910
+
+ANTONIO SERGIO DA SILVA CARLOS
+
+Informática para Internet
+
+Pau dos Ferros
+
+20183002746
+
+FRANCISCO DAS CHAGAS FERNANDES DE QUEIROZ FILHO
+
+Informática para Internet
+
+Pau dos Ferros
+
+20183002586
+
+FRANCISCO DE ASSIS GAMELEIRA DO RÊGO
+
+Informática para Internet
+
+Pau dos Ferros
+
+20173022834
+
+JESSICA ROSALIA FERNANDES
+
+Informática para Internet
+
+Pau dos Ferros
+
+20183003529
+
+JONY WALLISOM CORREIA
+
+Informática para Internet
+
+Pau dos Ferros
+
+
+
+
+20183002601
+
+JOSENILSON LOPES DE SOUZA
+
+Informática para Internet
+
+Pau dos Ferros
+
+20173022422
+
+PAULINA JÚLIA COSTA DE OLIVEIRA
+
+Informática para Internet
+
+Pau dos Ferros
+
+20183002432
+
+THALIA BIANCA ROCHA PESSOA
+
+Informática para Internet
+
+Pau dos Ferros
+
+20173022155
+
+VANESSA DIAS BESSA LOPES
+
+Informática para Internet
+
+Pau dos Ferros
+
+20173021720
+
+ZACARIAS PEREIRA DE SOUZA NETO
+
+Informática para Internet
+
+Pau dos Ferros
+
+
+
+

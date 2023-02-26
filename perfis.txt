@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "Lih",
+    "idade": 20,
+    "Location":12KM
+  },
+  {
+    "nome": "Aline",
+    "idade": 21,
+    "Location":"91KM"
+  }
+]

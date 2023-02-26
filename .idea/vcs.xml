@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/AppData/Local/Programs/Python/blog/DjangoBlogApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Django_blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hatch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Instabot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Instabot/opencv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PhoneInFoga" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django2-CRUD-30min" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/googlemaps-scraper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/handy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/handy/Hand-Gestures" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/infoga" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/meu_primeiro_sistema" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/meu_primeiro_sistema/covidnatal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sherlock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theHarvester" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vesla-instabot-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/whats-bot" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Cotação de Moedas</title>
+</head>
+<body>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<style>
+    h1{
+    font-family:'sans-serif';
+    text-align:center;
+    color:white;
+    }
+    body{
+    background-color:#1C1C1C;
+    }
+    div#data-hora{
+    color:red;
+    }
+</style>
+<h1>Cotação de Moedas</h1>
+<table class="table table-dark">
+  <thead>
+    <tr>
+      <th scope="col">Bitcoin</th>
+    </tr>
+  <td>{{moeda_bitcoin}}</td>
+    </thead>
+    <tr>
+
+    </tr>
+
+    <thead>
+    <tr>
+        <th scope="col">Dolar</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>{{moeda_dolar}}</td>
+
+    </tr>
+
+
+
+</table>
+<div id="data-hora"></div>
+<script>
+    // Função para formatar 1 em 01
+			const zeroFill = n => {
+				return ('0' + n).slice(-2);
+			}
+
+			// Cria intervalo
+			const interval = setInterval(() => {
+				// Pega o horário atual
+				const now = new Date();
+
+				// Formata a data conforme dd/mm/aaaa hh:ii:ss
+				const dataHora = zeroFill(now.getUTCDate()) + '/' + zeroFill((now.getMonth() + 1)) + '/' + now.getFullYear() + ' ' + zeroFill(now.getHours()) + ':' + zeroFill(now.getMinutes()) + ':' + zeroFill(now.getSeconds());
+
+				// Exibe na tela usando a div#data-hora
+				document.getElementById('data-hora').innerHTML = dataHora;
+			}, 1000);
+	</script>
+</body>
+</html>

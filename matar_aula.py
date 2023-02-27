@@ -14,8 +14,8 @@ from datetime import datetime
 #######YEAR#MONTH#DAY#HOUR#MINUTE###### DO NOT PUT ZERO BEFORE A NUMBER
 # pause.until(datetime(2020, 3, 27, 11, 29))
 # MAIL & PASSWORD (THE MAIL U WILL USE TO ENTER TO THE MEET)
-usernameStr = 'steve.jkl5@gmail.com'
-passwordStr = 'imac88246948'
+usernameStr = ''
+passwordStr = ''
 url_meet = 'https://meet.google.com/sqd-owmw-pyw'
 options = Options()
 options.add_argument("--headless")

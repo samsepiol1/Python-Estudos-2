@@ -1,7 +1,7 @@
 import imaplib
 import email
-from_email="steve.jkl5@gmail.com"
-from_pwd='mb4nd31r4'
+from_email=""
+from_pwd=''
 smtp_port=993
 smtp_server='imap.gmail.com'
 mail=imaplib.IMAP4_SSL(smtp_server)

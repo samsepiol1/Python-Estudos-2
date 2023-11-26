@@ -9,6 +9,6 @@ def enviando_requsicao(site):
     for y in range(1,2000):
         r=requests.get(1,2000)
         print("segundo teste"+r.status_code)
-enviando_requsicao('http://app-auxilio.online')
+enviando_requsicao('')
 
 

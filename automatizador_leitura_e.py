@@ -2,8 +2,8 @@ import email
 
 
 import imaplib
-
-user='lestudo33@gmail.com'
+// Modificação no email
+user='email.teste@gmail.com'
 
 
 server='imap.gmail.com'
@@ -26,6 +26,7 @@ mail_ids=[]
 for block in data:
     mail_ids+=block.split()
 #Para cada ID obtido podemos baixar o email e extrair o seu conteúdo
+# Utilizando o protocolo IMAP para o funcionamento do envio e recepção do email
 for i in mail_ids:
     status,data=mail.fetch(i,'(RFC822)')
     for response_part in data:

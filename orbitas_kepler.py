@@ -1,7 +1,7 @@
 import pandas as pd
 import math
 #Leitura da planinha que contém os dados
-x=pd.read_excel('C:/Users/Deus.DEUS.002/Desktop/Relatorio_unirn/dados_orbitas.xlsx',sep=r'\s*,\s*',
+x=pd.read_excel('',sep=r'\s*,\s*',
                            header=0, encoding='ascii',engine='xlrd')
 #Exibição dos dados
 print(x)

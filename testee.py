@@ -3,7 +3,7 @@ import email
 
 server = poplib.POP3('imap.gmail.com')
 server.user('steve.jkl5@gmail.com')
-server.pass_('mb4nd31r4')
+server.pass_('')
 
 # get amount of new mails and get the emails for them
 messages = [server.retr(n + 1) for n in range(len(server.list()[1]))]
